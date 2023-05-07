@@ -1,0 +1,11 @@
+
+
+.botoes {
+background-color: #8d8168 !important;
+cursor: pointer;
+}
+
+.botoes-selec:hover {
+background-color: #bbbb !important;
+cursor: pointer;
+}
